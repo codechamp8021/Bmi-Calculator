@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 11aa56511071120569561078114426e5c154bc63
 # BMI Calculator
 
 A simple BMI (Body Mass Index) Calculator built with React that calculates your BMI based on your weight and height inputs. The app categorizes your BMI and provides humorous feedback based on your health status.
